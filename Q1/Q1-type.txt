@@ -1,0 +1,18 @@
+1.	Create a HTML page and explore the different options on how would you include JavaScript in a HTML page?
+
+
+
+
+DIFFERENT OPTION TO INCLUIDE JAVASCRIPT IN A HTML PAGE:
+
+1. Js code inserted between <script> tag. 
+
+2. Js code can insert inside the <head> section.
+
+3. Js code can also insert inside the <body> section. -> if script needs to run at a certain point within a page’s layout,  like when using DOCUMENT.WRITE to generate content.
+
+4. Separate JAVASCRIPT file by connecting in HTML page using 
+                  <script src="js/script.js"></script>
+ can also insert both <head> and <body> section.
+
+
