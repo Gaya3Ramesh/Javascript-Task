@@ -1,0 +1,12 @@
+2.	Create two string variables and Concat the strings. Display the concatenated string and length of the string in browser.
+
+
+THERE ARE 2 TYPES:
+
+1. By using + method. 
+
+2. By using concat syntax 
+      var string1 = " "; 
+      var string2  = " "; 
+      .............
+      var concate = string.concat(string1, string2, ..., stringX);

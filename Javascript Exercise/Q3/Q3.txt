@@ -1,0 +1,1 @@
+3.	Split the following string with space and find the position of the string ‘favorite’ after splitting- What is your favorite flavor of ice cream?

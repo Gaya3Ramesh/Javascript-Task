@@ -1,0 +1,1 @@
+9.	Create a Boolean variable. If the variable is true then show alert message as success, else show failure.

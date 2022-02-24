@@ -1,0 +1,2 @@
+7.	Divide 100 with 3 - Display only two decimal points.
+                              Round the decimal value to next integer.

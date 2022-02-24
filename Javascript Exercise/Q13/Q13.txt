@@ -1,0 +1,1 @@
+13.	Create the Array - [10, 20, 30, 40, 50]. Move - 40 as first item in the array.20 as last item in Array.

@@ -1,0 +1,12 @@
+17.	Create an empty object and add properties and methods to the object. Access the properties of the object and print it.
+
+Syntax
+
+Const Person{  //Create an object
+
+firstName	John  //property in Object
+lastName	Doe   //property in Object
+age	        50    //property in Object
+
+fullName	function() {return this.firstName + " " + this.lastName;} // Syntax for methods in Object
+}

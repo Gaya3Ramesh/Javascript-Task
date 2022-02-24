@@ -1,0 +1,13 @@
+5.	Define five  variables with different types. Print the data type of the declared variables.
+
+
+5 DIFFERENT VARIABLES ARE:
+
+Primitive data type:
+1. String
+2. Number
+3. Boolean 
+4. Undefined
+
+Non-Primitive data type:
+5. Object 

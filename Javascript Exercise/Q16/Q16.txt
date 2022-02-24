@@ -1,0 +1,1 @@
+16.	Create a function with return value and print the returned output from function.

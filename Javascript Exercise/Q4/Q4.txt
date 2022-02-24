@@ -1,0 +1,12 @@
+4.	Try various string methods on the string - “When a JavaScript variable is declared with the keyword "new", the variable is created as an object”.
+
+
+STRING METHODS:
+
+1. charAt()
+2. charCodeAt()
+3. indexOf()
+4. lastIndexOf()
+5. toLowerCase()
+5. toUpperCase()
+6. slice(beginIndex, endIndex)

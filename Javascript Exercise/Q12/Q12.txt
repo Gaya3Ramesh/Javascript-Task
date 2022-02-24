@@ -1,0 +1,1 @@
+12.	Write logic to remove the item with value “Red” in the array - = ["Blue ", "Green", "Red", "Red", "Orange", "Violet", "Violet", "Violet", "Indigo", "Blue ", "Red", "Blue ", "Blue ",  "Yellow "];

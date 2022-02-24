@@ -1,0 +1,7 @@
+14.	Write a function to print todays date. Also print the current month and year.
+
+Syntax for current date and time:
+
+var date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
+
+var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();

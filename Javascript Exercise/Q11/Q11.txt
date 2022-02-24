@@ -1,0 +1,16 @@
+11.	create an array with random numbers. write logic to display the numbers in ascending order. Remove duplicate items from the following Array - color = ["Blue ", "Green", "Red", "Orange", "Violet", "Violet", "Violet", "Indigo", "Blue ", "Blue ", "Blue ",  "Yellow "];
+
+
+
+In string to sort the array is :
+
+array.sort()  //ascending order
+
+array.reverse()  //descending order
+
+
+In number:
+
+array.sort(function(a, b){return a-b}) //ascending order
+
+array.sort(function(a, b){return b-a}) //descending order

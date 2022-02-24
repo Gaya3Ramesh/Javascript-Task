@@ -1,0 +1,1 @@
+15.	Create a function that accepts two parameters. Add the two parameters passed and display the input.

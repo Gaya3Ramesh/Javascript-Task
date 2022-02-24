@@ -1,0 +1,4 @@
+6.	Create two variables of type integer. Add the two variables. 
+              1.	Check if the value is greater than 50 then display alert with message “Value must be greater than 50” , 
+              2.	If value is less than 50 then display the message “value is less than 50” .
+              3.	If value is equal to 50 then show “value is equal to 50.”
